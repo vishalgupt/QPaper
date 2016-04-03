@@ -1,0 +1,23 @@
+{
+  "name": "bower.json",
+  "authors": [
+    "Nikhilhub <nikhil4.deswal@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "^0.7.20",
+    "polymer": "Polymer/polymer#^1.2.0",
+    "google-map": "GoogleWebComponents/google-map#^1.1.10"
+  }
+}
